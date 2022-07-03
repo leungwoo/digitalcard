@@ -1,8 +1,8 @@
 import React,{Component} from "react";
 import Card from "./CardUI";
-import img1 from "../Assets/masqueraders.jpeg";
-import img2 from "../Assets/ocean.jpeg";
-import img3 from "../Assets/Richard-06.jpg";
+import img1 from "../Assets/BrownErika.jpg";
+import img2 from "../Assets/rayban-seethrough-lens.jpeg";
+import img3 from "../Assets/wayfarer-.jpeg";
 
 export default class Cards extends Component{
     render(){
