@@ -7,7 +7,7 @@ body{
     height:40rem;
 }
 .card:hover{
-    box-shadow: 5px 10px 20px 1px rgba(27, 1, 1, 0.253)!important;
+    box-shadow: 5px 10px 20px 1px rgb(246, 139, 139)!important;
 }
 
  .card-body{

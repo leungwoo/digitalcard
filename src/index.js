@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Card from "./Cad/Cards";
 import Navbar from "./components/Navbar";
+import "./styles.css";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
