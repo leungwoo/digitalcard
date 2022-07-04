@@ -24,8 +24,7 @@ body{
     padding-bottom: 3rem;
 }
 .card-img-top{
-    align-items: center;
-    transform: scale(1);
+        transform: scale(1);
     transition:transform 0.8s ease;
 }
 .card-img-top:hover{
